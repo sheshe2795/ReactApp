@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/profilecard/static/css/main.5e1c5a62.chunk.css",
-    "main.js": "/profilecard/static/js/main.668bfacd.chunk.js",
-    "main.js.map": "/profilecard/static/js/main.668bfacd.chunk.js.map",
-    "runtime-main.js": "/profilecard/static/js/runtime-main.56095d1f.js",
-    "runtime-main.js.map": "/profilecard/static/js/runtime-main.56095d1f.js.map",
-    "static/js/2.ac0ab7a6.chunk.js": "/profilecard/static/js/2.ac0ab7a6.chunk.js",
-    "static/js/2.ac0ab7a6.chunk.js.map": "/profilecard/static/js/2.ac0ab7a6.chunk.js.map",
-    "static/js/3.c4a43a88.chunk.js": "/profilecard/static/js/3.c4a43a88.chunk.js",
-    "static/js/3.c4a43a88.chunk.js.map": "/profilecard/static/js/3.c4a43a88.chunk.js.map",
-    "index.html": "/profilecard/index.html",
-    "static/css/main.5e1c5a62.chunk.css.map": "/profilecard/static/css/main.5e1c5a62.chunk.css.map",
-    "static/js/2.ac0ab7a6.chunk.js.LICENSE.txt": "/profilecard/static/js/2.ac0ab7a6.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/profilecard/static/media/goldnight.a488d4f1.jpg",
-    "static/media/sheli2.da940d9b.jpg": "/profilecard/static/media/sheli2.da940d9b.jpg"
+    "main.css": "/ReactApp/static/css/main.9d11f76a.chunk.css",
+    "main.js": "/ReactApp/static/js/main.b1dcb5b4.chunk.js",
+    "main.js.map": "/ReactApp/static/js/main.b1dcb5b4.chunk.js.map",
+    "runtime-main.js": "/ReactApp/static/js/runtime-main.8633c6fe.js",
+    "runtime-main.js.map": "/ReactApp/static/js/runtime-main.8633c6fe.js.map",
+    "static/js/2.8911d523.chunk.js": "/ReactApp/static/js/2.8911d523.chunk.js",
+    "static/js/2.8911d523.chunk.js.map": "/ReactApp/static/js/2.8911d523.chunk.js.map",
+    "static/js/3.fdfffa07.chunk.js": "/ReactApp/static/js/3.fdfffa07.chunk.js",
+    "static/js/3.fdfffa07.chunk.js.map": "/ReactApp/static/js/3.fdfffa07.chunk.js.map",
+    "index.html": "/ReactApp/index.html",
+    "static/css/main.9d11f76a.chunk.css.map": "/ReactApp/static/css/main.9d11f76a.chunk.css.map",
+    "static/js/2.8911d523.chunk.js.LICENSE.txt": "/ReactApp/static/js/2.8911d523.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactApp/static/media/bg-intro-mobile.02ce3982.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.56095d1f.js",
-    "static/js/2.ac0ab7a6.chunk.js",
-    "static/css/main.5e1c5a62.chunk.css",
-    "static/js/main.668bfacd.chunk.js"
+    "static/js/runtime-main.8633c6fe.js",
+    "static/js/2.8911d523.chunk.js",
+    "static/css/main.9d11f76a.chunk.css",
+    "static/js/main.b1dcb5b4.chunk.js"
   ]
 }
